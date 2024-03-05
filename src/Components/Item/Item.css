@@ -1,0 +1,22 @@
+.item-wrapper
+{
+    width:100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  
+}
+
+.item-name
+{
+    flex-basis: 80%;
+    font-size: x-large;
+    margin-left: 15px;
+    letter-spacing: 0.5rem;
+}
+.item-quantity
+{
+    font-size: x-large;
+    color: rgb(89, 4, 89) ;
+    margin-right: 15px;
+}

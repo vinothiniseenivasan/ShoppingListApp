@@ -1,0 +1,30 @@
+.header-wrapper
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    
+
+     
+}
+
+.header-text
+{
+    letter-spacing: 1rem;
+    font-size: 2rem;
+    color: var(--light-purple);
+
+}
+.header-image-wrapper
+{
+    height:300px;
+    width:300px;
+}
+.header-image
+{
+
+    max-width: 100%;
+    min-width: 100%;
+}

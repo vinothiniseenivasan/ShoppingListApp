@@ -1,0 +1,36 @@
+.shopping-items-wrapper{
+    max-width: 100%;
+    min-width: 400px;
+     
+}
+.item-list
+{
+    display: flex;
+    align-items: center;
+    margin-bottom: 2rem;
+}
+.change-quantity
+{
+    padding: 1rem;
+    border-radius: 100%;
+}
+
+.add-item
+{
+background-color: rgb(204, 204, 32);
+}
+
+.add-item
+{
+background-color: rgb(204, 204, 32);
+color: white;
+}
+.remove-item
+{
+    background-color: rgb(134, 187, 171);
+   color: white;
+}
+.change-quantity:hover
+{
+    color: black;
+}
